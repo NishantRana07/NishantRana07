@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NishantRana07
+- 📚 currently in my 3rd year of B.tech
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning New tech stack
 - 💞️ I’m looking to collaborate on Js projects
