@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{NishantRama07}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    <a href="https://community.vaunt.dev/board/nishantrana07/achievements">
+        <center><img src="https://api.vaunt.dev/v1/github/entities/nishantrana07/achievements?format=svg&limit=3" width="750" /></center>
     </a>
 </p>
