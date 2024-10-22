@@ -12,14 +12,16 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
-<details>
- <summary>Github Stats ⚡</summary>
-  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Nishantrana07&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantrana07&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+  <h3 align="center">Github Stats ⚡</h3>
 
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishantrana07&theme=blueberry&count_private=true&hide_border=true&line_height=20" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantrana07&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+</div>
+
+
+
 
 
 [![An image of @nishantrana07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishantrana07)](https://holopin.io/@nishantrana07)
