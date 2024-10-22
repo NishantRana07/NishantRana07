@@ -1,4 +1,4 @@
-<div width="100%" align="center"><Center><h1>Nishant Rana</h1></Center></div>
+<!--<div width="100%" align="center"><Center><h1>Nishant Rana</h1></Center></div>-->
 <pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -12,9 +12,8 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
-<details>
-  <summary>Github Stats ⚡</summary>
-  
+ <details>
+ <summary>Github Stats ⚡</summary>
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Nishantrana07&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantrana07&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
