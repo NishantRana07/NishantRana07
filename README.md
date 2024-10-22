@@ -5,8 +5,7 @@ NishantRana07/NishantRana07 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-    
-<img src="https://api.vaunt.dev/v1/github/entities/nishantrana07/achievements?format=svg&limit=3" width="500" />
+
 
 
 
