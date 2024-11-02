@@ -1,5 +1,5 @@
 <div width="100%" align="center"><Center><h1><i>Nishantelite007@gmail.com</i> - BATMAN 🦇 </h1></Center></div>
-<pre>
+<!-- <pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
                                 /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -12,7 +12,7 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
-
+ -->
   <h3 align="center">Github Stats ⚡</h3>
 
 <div align="center">
