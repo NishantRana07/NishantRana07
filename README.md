@@ -22,11 +22,11 @@
 </div> 
 -->
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantrana07&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantrana07&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantrana07&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantrana07&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantrana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantRana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishantRana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishantRana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishantRana07&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishantRana07&theme=github_dark" />
 </div>
 
 
