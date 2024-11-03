@@ -13,11 +13,20 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
  -->
-  <h3 align="center">Github Stats ⚡</h3>
+<!--   <h3 align="center">Github Stats ⚡</h3> -->
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishantrana07&theme=blueberry&count_private=true&hide_border=true&line_height=20" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantrana07&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+</div> 
+-->
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantrana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantrana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantrana07&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantrana07&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantrana07&theme=github_dark" />
 </div>
 
 
