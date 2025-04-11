@@ -1,4 +1,6 @@
-<div width="100%" align="center"><Center><h1><i>Nishantelite007@gmail.com</i> - BATMAN 🦇 </h1></Center></div>
+<!-- <div width="100%" align="center"><Center><h1><i>Nishantelite007@gmail.com</i> - BATMAN 🦇 </h1></Center></div>-->
+<div align="Center" border-radius="15px"><img src='https://github.com/user-attachments/assets/0c8d5da7-ae24-4f55-a7d7-9ef71a82bd8a' width="90%" margin-bottom="5px"/></div>
+
 <!-- <pre>  
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -14,6 +16,7 @@
 </pre>
  -->
 <!--   <h3 align="center">Github Stats ⚡</h3> -->
+
 
 
 
