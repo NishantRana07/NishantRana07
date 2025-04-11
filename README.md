@@ -1,5 +1,5 @@
 <!-- <div width="100%" align="center"><Center><h1><i>Nishantelite007@gmail.com</i> - BATMAN 🦇 </h1></Center></div>-->
-<div align="Center" border-radius="15px"><img src='https://github.com/user-attachments/assets/fbed8b3f-f58b-45db-a372-ba8c37effe1e' width="90%" margin-bottom="5px"/></div>
+<div align="Center" style="border-radius:20px"><img src='https://github.com/user-attachments/assets/fbed8b3f-f58b-45db-a372-ba8c37effe1e' width="70%" margin-bottom="15px"/></div>
 
 <!-- <pre>  
                                   ___      
